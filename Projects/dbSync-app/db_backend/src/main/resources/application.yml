@@ -1,0 +1,25 @@
+logging:
+  level:
+    org.springframework.data.couchbase.repository.query: DEBUG
+spring:
+  application:
+    name: springboot-couchbase
+  couchbase:
+    username: Administrator
+    password: maithi123
+    connection-string: couchbase://127.0.0.1
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db
+    username: zoe
+    password: maithi123
+    driver-class-name: org.postgresql.Driver
+  jpa.database-platform: org.hibernate.dialect.PostgreSQL82Dialect
+  jpa.hibernate.ddl-auto: update
+  jpa.show-sql: true
+  data:
+    couchbase:
+      bucket-name: default
+      auto-index: true
+    jdbc:
+      repositories:
+        enabled: false

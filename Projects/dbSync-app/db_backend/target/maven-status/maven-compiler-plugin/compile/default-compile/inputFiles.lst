@@ -1,0 +1,16 @@
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/entity/cbEntity/CbCustomer.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/app.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/service/PostgresService.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/service/CustomerService.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/ConnectCouchbase.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/configuration/CouchbaseConfig.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/configuration/PostgresConfig.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/exception/EntityNotFound.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/model/ICustomerService.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/controller/PostgresController.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/controller/CustomerController.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/Main.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/repository/cbRepository/CustomerRepository.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/repository/pgRepository/PostgresRepo.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/bootstrap/DefaultCustomerLoader.java
+/Users/zoebrown/Projects/dbSync-app/db_backend/src/main/java/com/springboot/entity/pgEntity/PgCustomer.java

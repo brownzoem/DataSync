@@ -1,0 +1,770 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "couchbase.n1ql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "couchbase.n1ql",
+        "description": "couchbase.n1ql",
+        "detail": "couchbase.n1ql",
+        "documentation": {}
+    },
+    {
+        "label": "N1QLQuery",
+        "importPath": "couchbase.n1ql",
+        "description": "couchbase.n1ql",
+        "isExtraImport": true,
+        "detail": "couchbase.n1ql",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "QueryIndexAlreadyExistsException",
+        "importPath": "couchbase.exceptions",
+        "description": "couchbase.exceptions",
+        "isExtraImport": true,
+        "detail": "couchbase.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "QueryIndexAlreadyExistsException",
+        "importPath": "couchbase.exceptions",
+        "description": "couchbase.exceptions",
+        "isExtraImport": true,
+        "detail": "couchbase.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "cb",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "cb_coll",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "cluster",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "cb",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "cb_coll",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "cluster",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "testing.cb_sync",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "testing.cb_sync",
+        "description": "testing.cb_sync",
+        "detail": "testing.cb_sync",
+        "documentation": {}
+    },
+    {
+        "label": "CB_Object",
+        "importPath": "testing.cb_sync",
+        "description": "testing.cb_sync",
+        "isExtraImport": true,
+        "detail": "testing.cb_sync",
+        "documentation": {}
+    },
+    {
+        "label": "PG_Object",
+        "importPath": "testing.pg_sync",
+        "description": "testing.pg_sync",
+        "isExtraImport": true,
+        "detail": "testing.pg_sync",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "flask",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "flask",
+        "description": "flask",
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "marshmallow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "pg_db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pg_db",
+        "description": "pg_db",
+        "detail": "pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordAuthenticator",
+        "importPath": "couchbase.auth",
+        "description": "couchbase.auth",
+        "isExtraImport": true,
+        "detail": "couchbase.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Cluster",
+        "importPath": "couchbase.cluster",
+        "description": "couchbase.cluster",
+        "isExtraImport": true,
+        "detail": "couchbase.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterOptions",
+        "importPath": "couchbase.options",
+        "description": "couchbase.options",
+        "isExtraImport": true,
+        "detail": "couchbase.options",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterTimeoutOptions",
+        "importPath": "couchbase.options",
+        "description": "couchbase.options",
+        "isExtraImport": true,
+        "detail": "couchbase.options",
+        "documentation": {}
+    },
+    {
+        "label": "QueryOptions",
+        "importPath": "couchbase.options",
+        "description": "couchbase.options",
+        "isExtraImport": true,
+        "detail": "couchbase.options",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "KafkaProducer",
+        "importPath": "kafka",
+        "description": "kafka",
+        "isExtraImport": true,
+        "detail": "kafka",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "FileType",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "Producer",
+        "importPath": "confluent_kafka",
+        "description": "confluent_kafka",
+        "isExtraImport": true,
+        "detail": "confluent_kafka",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "db_sync_scripts.env.bin.activate_this",
+        "description": "db_sync_scripts.env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "db_sync_scripts.env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "CB_Object",
+        "kind": 6,
+        "importPath": "db_sync_scripts.testing.cb_sync",
+        "description": "db_sync_scripts.testing.cb_sync",
+        "peekOfCode": "class CB_Object:\n    #import data from csv to couchbase\n    def __init__(self):\n        self.list_ids = []\n    def insert_csv(self,filename, given_key):\n        #refereces: https://forums.couchbase.com/t/import-a-csv-to-couchbase-bucket/28134\n        # https://www.geeksforgeeks.org/convert-csv-to-json-using-python/\n        data = {}   #dictionary\n        with open(filename, encoding='utf-8') as csvf:\n            csvReader = csv.DictReader(csvf)",
+        "detail": "db_sync_scripts.testing.cb_sync",
+        "documentation": {}
+    },
+    {
+        "label": "cascade_cb_to_pg",
+        "kind": 2,
+        "importPath": "db_sync_scripts.testing.main",
+        "description": "db_sync_scripts.testing.main",
+        "peekOfCode": "def cascade_cb_to_pg(cb, pg):\n    #data from non-relational is transformed into relational format and then inserted into relational\n    #map non-relational data into tables, columns, and relationships\n    data = cb.get_data()\n    for record in data:\n        pg.insert('customers', record)\ndef sync_table_cb_to_pg(table_name, cb, pg):\n    #creates table and finds attributes if needed\n    data = cb.get_data()\n    #data is a list of maps",
+        "detail": "db_sync_scripts.testing.main",
+        "documentation": {}
+    },
+    {
+        "label": "sync_table_cb_to_pg",
+        "kind": 2,
+        "importPath": "db_sync_scripts.testing.main",
+        "description": "db_sync_scripts.testing.main",
+        "peekOfCode": "def sync_table_cb_to_pg(table_name, cb, pg):\n    #creates table and finds attributes if needed\n    data = cb.get_data()\n    #data is a list of maps\n    pg.convert_to_table(table_name, data)\ndef reset_pg(pg):\n    pg.create_table('customers')\ndef main():\n    cb = CB_Object()\n    pg = PG_Object()",
+        "detail": "db_sync_scripts.testing.main",
+        "documentation": {}
+    },
+    {
+        "label": "reset_pg",
+        "kind": 2,
+        "importPath": "db_sync_scripts.testing.main",
+        "description": "db_sync_scripts.testing.main",
+        "peekOfCode": "def reset_pg(pg):\n    pg.create_table('customers')\ndef main():\n    cb = CB_Object()\n    pg = PG_Object()\n    cb.insert_csv('customer_1.csv', '\\ufeffCUSTOMER_ID')\n    cb.get_data()\n    #cb.show_key_data()\n    # for element in data:\n    #     print(data)",
+        "detail": "db_sync_scripts.testing.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "db_sync_scripts.testing.main",
+        "description": "db_sync_scripts.testing.main",
+        "peekOfCode": "def main():\n    cb = CB_Object()\n    pg = PG_Object()\n    cb.insert_csv('customer_1.csv', '\\ufeffCUSTOMER_ID')\n    cb.get_data()\n    #cb.show_key_data()\n    # for element in data:\n    #     print(data)\n    # pg.create_table()\n    # cascade_cb_to_pg(cb, pg)",
+        "detail": "db_sync_scripts.testing.main",
+        "documentation": {}
+    },
+    {
+        "label": "PG_Object",
+        "kind": 6,
+        "importPath": "db_sync_scripts.testing.pg_sync",
+        "description": "db_sync_scripts.testing.pg_sync",
+        "peekOfCode": "class PG_Object:\n    def get_cur(self):\n        params = config()\n            # print('Connecting to the PostgreSQL database...')\n        conn = psycopg2.connect(**params)\n        conn.autocommit = True\n        cur = conn.cursor()\n        return cur\n    def connect(self,commands):\n        \"\"\" Connect to PostgreSQL database server \"\"\"",
+        "detail": "db_sync_scripts.testing.pg_sync",
+        "documentation": {}
+    },
+    {
+        "label": "#conn",
+        "kind": 5,
+        "importPath": "db_sync_scripts.testing.pg_sync",
+        "description": "db_sync_scripts.testing.pg_sync",
+        "peekOfCode": "#conn = psycopg2.connect(\"dbname=suppliers user=zoe password=maithi123\")\n#can create a configuration file\nclass PG_Object:\n    def get_cur(self):\n        params = config()\n            # print('Connecting to the PostgreSQL database...')\n        conn = psycopg2.connect(**params)\n        conn.autocommit = True\n        cur = conn.cursor()\n        return cur",
+        "detail": "db_sync_scripts.testing.pg_sync",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "kind": 2,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "def hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request\n@app.route('/users', methods=[\"GET\"])\ndef users():\n    print(\"users endpoint reached...\")\n    with open(\"users.json\", \"r\") as f:\n        data = json.load(f)\n        data.append({\n            \"username\": \"user4\",",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 2,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "def users():\n    print(\"users endpoint reached...\")\n    with open(\"users.json\", \"r\") as f:\n        data = json.load(f)\n        data.append({\n            \"username\": \"user4\",\n            \"pets\": [\"hamster\"]\n        })\n        return flask.jsonify(data)\nif __name__ == \"__main__\":",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.2\"\napi = Api(app)\n#define a route\n@app.route('/')\ndef hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.2\"\napi = Api(app)\n#define a route\n@app.route('/')\ndef hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request\n@app.route('/users', methods=[\"GET\"])",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.2\"\napi = Api(app)\n#define a route\n@app.route('/')\ndef hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request\n@app.route('/users', methods=[\"GET\"])\ndef users():",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.0.2\"\napi = Api(app)\n#define a route\n@app.route('/')\ndef hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request\n@app.route('/users', methods=[\"GET\"])\ndef users():\n    print(\"users endpoint reached...\")",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "db_sync_scripts.app",
+        "description": "db_sync_scripts.app",
+        "peekOfCode": "api = Api(app)\n#define a route\n@app.route('/')\ndef hello_world():\n    return 'Hello, World!'\n#add a new endpoint that sends this data as a response to a request\n@app.route('/users', methods=[\"GET\"])\ndef users():\n    print(\"users endpoint reached...\")\n    with open(\"users.json\", \"r\") as f:",
+        "detail": "db_sync_scripts.app",
+        "documentation": {}
+    },
+    {
+        "label": "insert_csv",
+        "kind": 2,
+        "importPath": "db_sync_scripts.cb_db",
+        "description": "db_sync_scripts.cb_db",
+        "peekOfCode": "def insert_csv(filename, given_key):\n    #refereces: https://forums.couchbase.com/t/import-a-csv-to-couchbase-bucket/28134\n    # https://www.geeksforgeeks.org/convert-csv-to-json-using-python/\n    data = {}   #dictionary\n    with open(filename, encoding='utf-8') as csvf:\n        csvReader = csv.DictReader(csvf)\n        #convert each row into a dictionary adn add it to the data\n        for rows in csvReader:\n            # print(rows)\n            key = rows[given_key]",
+        "detail": "db_sync_scripts.cb_db",
+        "documentation": {}
+    },
+    {
+        "label": "empty_cluster",
+        "kind": 2,
+        "importPath": "db_sync_scripts.cb_db",
+        "description": "db_sync_scripts.cb_db",
+        "peekOfCode": "def empty_cluster():\n    for item in self.list_ids:\n        remove_result = cb_coll.remove(item)\n        print(\"CAS:\", remove_result.cas)\ndef get_data():\n    #ERROR: WHEN I GET DATA I GET DATA OUT OF ORDER, gets it in alphabetical order\n    #get data for specific collection\n    # need later\n    # try:\n    #     cluster.query(\"CREATE PRIMARY INDEX ON default._default._default;\")",
+        "detail": "db_sync_scripts.cb_db",
+        "documentation": {}
+    },
+    {
+        "label": "get_data",
+        "kind": 2,
+        "importPath": "db_sync_scripts.cb_db",
+        "description": "db_sync_scripts.cb_db",
+        "peekOfCode": "def get_data():\n    #ERROR: WHEN I GET DATA I GET DATA OUT OF ORDER, gets it in alphabetical order\n    #get data for specific collection\n    # need later\n    # try:\n    #     cluster.query(\"CREATE PRIMARY INDEX ON default._default._default;\")\n    # except QueryIndexAlreadyExistsException:\n    #     print(\"index already exists\")\n    #query all documents\n    #data = cluster.query(\"SELECT * from default._default._default\")",
+        "detail": "db_sync_scripts.cb_db",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 2,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "def config(filename='database.ini', section='postgresql'):\n    # create a parser\n    parser = ConfigParser()\n    # read config file\n    parser.read(filename)\n    # get section, default to postgresql\n    db = {}\n    if parser.has_section(section):\n        params = parser.items(section)\n        for param in params:",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "username",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "username = \"Administrator\"\npassword = \"maithi123\"\nbucket_name = \"default\"\n# User Input ends here.\n# Connect options - authentication\nauth = PasswordAuthenticator(\n    username,\n    password,\n)\n# Get a reference to our cluster",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "password = \"maithi123\"\nbucket_name = \"default\"\n# User Input ends here.\n# Connect options - authentication\nauth = PasswordAuthenticator(\n    username,\n    password,\n)\n# Get a reference to our cluster\n# NOTE: For TLS/SSL connection use 'couchbases://<your-ip-address>' instead",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "bucket_name",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "bucket_name = \"default\"\n# User Input ends here.\n# Connect options - authentication\nauth = PasswordAuthenticator(\n    username,\n    password,\n)\n# Get a reference to our cluster\n# NOTE: For TLS/SSL connection use 'couchbases://<your-ip-address>' instead\ncluster = Cluster('couchbase://localhost', ClusterOptions(auth))",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "auth = PasswordAuthenticator(\n    username,\n    password,\n)\n# Get a reference to our cluster\n# NOTE: For TLS/SSL connection use 'couchbases://<your-ip-address>' instead\ncluster = Cluster('couchbase://localhost', ClusterOptions(auth))\n# Wait until the cluster is ready for use.\ncluster.wait_until_ready(timedelta(seconds=5))\n# get a reference to our bucket",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "cluster",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "cluster = Cluster('couchbase://localhost', ClusterOptions(auth))\n# Wait until the cluster is ready for use.\ncluster.wait_until_ready(timedelta(seconds=5))\n# get a reference to our bucket\ncb = cluster.bucket(bucket_name)\ncb_coll = cb.scope(\"_default\").collection(\"_default\")\ndef config(filename='database.ini', section='postgresql'):\n    # create a parser\n    parser = ConfigParser()\n    # read config file",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "cb",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "cb = cluster.bucket(bucket_name)\ncb_coll = cb.scope(\"_default\").collection(\"_default\")\ndef config(filename='database.ini', section='postgresql'):\n    # create a parser\n    parser = ConfigParser()\n    # read config file\n    parser.read(filename)\n    # get section, default to postgresql\n    db = {}\n    if parser.has_section(section):",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "cb_coll",
+        "kind": 5,
+        "importPath": "db_sync_scripts.config",
+        "description": "db_sync_scripts.config",
+        "peekOfCode": "cb_coll = cb.scope(\"_default\").collection(\"_default\")\ndef config(filename='database.ini', section='postgresql'):\n    # create a parser\n    parser = ConfigParser()\n    # read config file\n    parser.read(filename)\n    # get section, default to postgresql\n    db = {}\n    if parser.has_section(section):\n        params = parser.items(section)",
+        "detail": "db_sync_scripts.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_cur",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def get_cur(self):\n    params = config()\n        # print('Connecting to the PostgreSQL database...')\n    conn = psycopg2.connect(**params)\n    conn.autocommit = True\n    cur = conn.cursor()\n    return cur\ndef connect(self,commands):\n    \"\"\" Connect to PostgreSQL database server \"\"\"\n    conn = None",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def connect(self,commands):\n    \"\"\" Connect to PostgreSQL database server \"\"\"\n    conn = None\n    try:\n        cur = self.get_cur()\n        for command in commands:\n            # print(command)\n            try:\n                # print(command)\n                print(command)",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "drop_table",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def drop_table(self,table_name):\n    sql = (f\"\"\"DROP TABLE IF EXISTS {table_name};\"\"\",)\n    self.connect(sql);\n#I manually created this table but there should be a way to create it\ndef create_table(self):\n    commands = (\n    \"\"\"DROP TABLE IF EXISTS customers;\"\"\",\n    \"\"\"CREATE TABLE customers (\n        \\ufeffCUSTOMER_ID VARCHAR(255),\n        FIRST_NAME VARCHAR(255) NOT NULL,",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def create_table(self):\n    commands = (\n    \"\"\"DROP TABLE IF EXISTS customers;\"\"\",\n    \"\"\"CREATE TABLE customers (\n        \\ufeffCUSTOMER_ID VARCHAR(255),\n        FIRST_NAME VARCHAR(255) NOT NULL,\n        LAST_NAME VARCHAR(255) NOT NULL,\n        PHONE_NUM VARCHAR(255),\n        AGE INT,\n        DOB VARCHAR(255),",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "insert_csv",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def insert_csv(self,filename):\n    #reference https://www.geeksforgeeks.org/python-import-csv-into-postgresql/\n    sql = (f'''copy customers\n    FROM '/Users/zoebrown/Projects/DBSyncProject/{filename}'\n    DELIMITER ','\n    CSV HEADER;''',)\n    self.connect(sql)\ndef insert(self, table_name, record):\n    attributes = []\n    values = []",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def insert(self, table_name, record):\n    attributes = []\n    values = []\n    a = \"\"\n    v = \"\"\n    for key in record:\n        attributes.append(key)\n        values.append(f\"\"\"'{record[key]}'\"\"\")\n        print(type(record[key]))\n    # a = ', '.join(attributes)",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_table",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def create_new_table(self, table_name, attributes):\n    l = []\n    for element in attributes:\n        l.append(f\"{element} VARCHAR(255)\")\n    str = ',\\n'.join(l)\n    sql = (f\"\"\"CREATE TABLE IF NOT EXISTS {table_name} (\n        {str}\n    )\n            \"\"\",)\n    self.connect(sql) ",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_table",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def convert_to_table(self, table_name, data):\n    #need to implement multiline insert\n    check = False\n    for record in data:\n        attributes = []\n        values = []\n        for key in record:\n            attributes.append(key)\n            values.append(f\"\"\"'{record[key]}'\"\"\")\n        a = ', '.join(attributes)",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "view_table",
+        "kind": 2,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "def view_table(self,table_name):\n    sql = f\"\"\"SELECT * FROM {table_name}\"\"\"\n    cur = self.get_cur()\n    cur.execute(sql)\n    for i in cur.fetchall():\n        print(i)\n    cur.close()\n# drop_table('customers')\n# create_table()\n# insert_csv('/Users/zoebrown/Projects/DBSyncProject/customer_1.csv')",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "#conn",
+        "kind": 5,
+        "importPath": "db_sync_scripts.pg_db",
+        "description": "db_sync_scripts.pg_db",
+        "peekOfCode": "#conn = psycopg2.connect(\"dbname=suppliers user=zoe password=maithi123\")\n#can create a configuration file\ndef get_cur(self):\n    params = config()\n        # print('Connecting to the PostgreSQL database...')\n    conn = psycopg2.connect(**params)\n    conn.autocommit = True\n    cur = conn.cursor()\n    return cur\ndef connect(self,commands):",
+        "detail": "db_sync_scripts.pg_db",
+        "documentation": {}
+    },
+    {
+        "label": "producer",
+        "kind": 5,
+        "importPath": "db_sync_scripts.producer",
+        "description": "db_sync_scripts.producer",
+        "peekOfCode": "producer = KafkaProducer(bootstrap_servers=['localhost:9092'],\n                         value_serializer=lambda x:\n                         dumps(x).encode('utf-8'))\n#get data from Couchbase\n#listen to events and send json to",
+        "detail": "db_sync_scripts.producer",
+        "documentation": {}
+    }
+]

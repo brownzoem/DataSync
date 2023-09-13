@@ -1,0 +1,2 @@
+[2023-04-17 18:34:21,658] INFO [test-couchbase-source|task-0|offsets] {"milestone":"OFFSET_COMMIT_HOOK","taskUuid":"e5bc8327-10ac-44e0-942b-c7b7c21963af","context":"[test-couchbase-source|task-0|offsets]"} (com.couchbase.connect.kafka.SourceTaskLifecycle:202)
+[2023-04-17 18:34:21,667] INFO [test-couchbase-source|task-1|offsets] {"milestone":"OFFSET_COMMIT_HOOK","taskUuid":"1f06f0c9-d29d-4635-bcc9-63e28983240d","context":"[test-couchbase-source|task-1|offsets]"} (com.couchbase.connect.kafka.SourceTaskLifecycle:202)
